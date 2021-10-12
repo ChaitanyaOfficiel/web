@@ -373,7 +373,7 @@ cursor:pointer;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    padding-bottom:20px;
+    padding-bottom:50px;
 }
 .skill img{
    display: block;
